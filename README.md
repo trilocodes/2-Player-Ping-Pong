@@ -12,9 +12,7 @@ This repository contains a fun and interactive implementation of the classic Pon
 
 ## Screenshots
 
-
-![bg](https://github.com/trilocodes/2-Player-Ping-Pong/assets/64355745/8acf8dc9-1348-4e33-9e2a-75ee7601db2e)
-
+<img width="1262" alt="ping_pong" src="https://github.com/trilocodes/2-Player-Ping-Pong/assets/64355745/56d81a7a-9d46-49e4-bbb1-e7b026a98cad">
 
 ## Installation
 
