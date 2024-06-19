@@ -21,7 +21,7 @@ This repository contains a fun and interactive implementation of the classic Pon
 
 ## How to Play
 
-- **Start the game**: Run `python pong_turtle.py`.
+- **Start the game**: Run `python main.py`.
 - **Control the paddles**:
   - Player 1 (Left Paddle): Use the 'W' key to move up and 'S' key to move down.
   - Player 2 (Right Paddle): Use the 'Up Arrow' key to move up and 'Down Arrow' key to move down.
